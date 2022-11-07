@@ -1,6 +1,6 @@
 # 🚀 ABOUT
 
-- 🤔 Load Code Node!
+- 🤔 Code Load Node!
 - 💬 Do it as u like...
 
 # 🛠 TECH STACK
