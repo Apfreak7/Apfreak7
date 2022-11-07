@@ -5,7 +5,7 @@
 
 # 🛠 TECH STACK
 
-> skills
+> Skills
 
 - 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=flat-circle&logo=node.js&logoColor=white)![Express.Js](https://img.shields.io/badge/Express.js-404D59?style=flat-circle)
 
@@ -26,7 +26,7 @@
 > Language usage
 
 <div align="center">
-    <img height="200px" src="https://github-readme-stats-api-apfreak7.vercel.app/api/top-langs/?username=apfreak7&theme=gruvbox_light&layout=compact"/>
+    <img height="200px" src="https://github-readme-stats-api-apfreak7.vercel.app/api/top-langs/?username=Apfreak7&theme=gruvbox_light&layout=compact"/>
 </div>
 
 # 🔭ACTIONS
@@ -59,4 +59,4 @@
     <a href='mailto: anirudhpanda3@gmail.com'><img height='50px' src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" /></a>
 </div>
 
-![](https://stats.justsong.cn/api/github?username=apfreak7)
+![<div align='center' />](https://stats.justsong.cn/api/github?username=apfreak7)
