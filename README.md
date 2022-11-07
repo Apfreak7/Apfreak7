@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-    <img height="250px" src="https://activity-graph.herokuapp.com/graph?username=apfreak7&theme=github"/>
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=apfreak7&theme=github"/>
 </div>
 
 <div align="center">
