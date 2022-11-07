@@ -59,4 +59,4 @@
     <a href='mailto: anirudhpanda3@gmail.com'><img height='50px' src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" /></a>
 </div>
 
-![](https://stats.justsong.cn/api/github?username=apfreak7&&column=3&margin-w=30&margin-h=15&align=center)
+![](https://stats.justsong.cn/api/github?username=apfreak7&align=center)
