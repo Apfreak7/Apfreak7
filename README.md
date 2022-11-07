@@ -52,7 +52,7 @@
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=apfreak7&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-![](https://stats.justsong.cn/api/github?username=apfreak7)![](https://stats.justsong.cn/api/zhihu?username=apfreak7)
+![](https://stats.justsong.cn/api/github?username=apfreak7)
 
 <div align='center'>
     <a href='https://www.instagram.com/anirudh.panda'><img height='150px' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
