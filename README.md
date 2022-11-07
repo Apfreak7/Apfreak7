@@ -26,34 +26,34 @@
 > Language usage
 
 <div align="center">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfreak7&layout=compact"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfreak7&layout=compact"/>
 </div>
 
 # 🔭ACTIONS
 
 <div align="center">
-    <img height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=apfreak7"/>
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=apfreak7"/>
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/apfreak7/apfreak7/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
-    <img height="200px" src="https://activity-graph.herokuapp.com/graph?username=apfreak7&theme=github"/>
+    <img height="250px" src="https://activity-graph.herokuapp.com/graph?username=apfreak7&theme=github"/>
 </div>
 
 <div align="center">
-    <img height="200px" src="https://metrics.lecoq.io/apfreak7?template=classic&config.timezone=Asia%2FMumbai"/>
+    <img height="250px" src="https://metrics.lecoq.io/apfreak7?template=classic&config.timezone=Asia%2FMumbai"/>
 </div>
 
 # 🌱SOCIAL
 
 <div align="center">
-    <img height="100px" src="https://github-profile-trophy.vercel.app/?username=apfreak7&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=apfreak7&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
 <div align="center">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api?username=apfreak7&show_icons=true&theme=radical"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=apfreak7&show_icons=true&theme=radical"/>
 </div>
 
 <div align='center'>
