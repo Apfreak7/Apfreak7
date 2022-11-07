@@ -50,12 +50,13 @@
 
 <div align="center">
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=apfreak7&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-    ![](https://stats.justsong.cn/api/github?username=apfreak7)
 </div>
 
 <div align='center'>
-    <a href='https://www.instagram.com/anirudh.panda'><img height='150px' src="https://img.shields.io/badge/Instagram-E4405F?style=flat-circle&logo=instagram&logoColor=white" /></a>
-    <a href='https://www.linkedin.com/in/anirudh-panda-205398182'><img height='150px' src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-circle&logo=linkedin&logoColor=white" /></a>
-    <a href='https://www.snapchat.com/apfreak7'><img height='150px' src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-circle&logo=snapchat&logoColor=white" /></a>
-    <a href='mailto: anirudhpanda3@gmail.com'><img height='150px' src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" /></a>
+    <a href='https://www.instagram.com/anirudh.panda'><img height='50px' src="https://img.shields.io/badge/Instagram-E4405F?style=flat-circle&logo=instagram&logoColor=white" /></a>
+    <a href='https://www.linkedin.com/in/anirudh-panda-205398182'><img height='50px' src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-circle&logo=linkedin&logoColor=white" /></a>
+    <a href='https://www.snapchat.com/apfreak7'><img height='50px' src="https://img.shields.io/badge/Snapchat-FFFC00?style=flat-circle&logo=snapchat&logoColor=white" /></a>
+    <a href='mailto: anirudhpanda3@gmail.com'><img height='50px' src="https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white" /></a>
 </div>
+
+![](https://stats.justsong.cn/api/github?username=apfreak7)
